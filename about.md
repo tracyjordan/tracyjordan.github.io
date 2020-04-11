@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Our contact details are at the bottom of this page. If you are interested in our services, please email or text in the first instance and if we can help you, we will respond to your message.
+If you are interested in our services, please email or text in the first instance and if we can help you, we will respond to your message.
 </p>
 
 
