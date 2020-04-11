@@ -19,7 +19,7 @@ Nocturnal Works Ltd Director, Lee Jordan
 
 You can contact us using the details below, but we cannot respond to all messages, so please understand if we are not able to help you personally.
 
-Looking forward to helping others, together!
+Looking forward to helping others!
 
 ![alt text](https://aroha.dev/public/assets/images/lee-jordan.png "Lee Jordan")
 
