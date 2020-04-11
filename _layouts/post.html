@@ -9,7 +9,7 @@ layout: default
   <span class="post-date"><i class="material-icons-outlined md-24">category</i>&nbsp;&nbsp;{{ page.categories}}</span>
   {% assign listed_categories = (page.categories) %}
 {% for category in listed_categories %}
-{{post.category}}&nbsp;
+{{ post.categories }}&nbsp;
 {% endfor %}
   {{ content }}
 </div>
