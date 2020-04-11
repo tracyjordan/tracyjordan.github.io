@@ -5,7 +5,7 @@ title: Categories
 
 The content of this site is listed by category and linked below.
 
-##Aroha.dev
+<h2>Aroha.dev</h2>
 
  <ul>
  {% assign sorted_posts = (site.categories.['aroha'] | sort: 'title') %}
@@ -16,7 +16,7 @@ The content of this site is listed by category and linked below.
 {% endfor %}
 </ul>
 
-##Terminology
+<h2>Terminology</h2>
 
  <ul>
  {% assign sorted_posts = (site.categories.['terminology'] | sort: 'title') %}
