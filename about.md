@@ -11,5 +11,5 @@ title: About
 
 
 
-<p><i class="material-icons-outlined">mail</i> arohadevelopment (Gmail)</p>
-<p><i class="material-icons-outlined">message</i> text 021962004</p>
+<p><i class="material-icons-outlined md-48">mail</i> arohadevelopment (Gmail)</p>
+<p><i class="material-icons-outlined md-48">message</i> text 021962004</p>
