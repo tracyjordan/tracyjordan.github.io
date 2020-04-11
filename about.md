@@ -17,7 +17,7 @@ Nocturnal Works Ltd Director, Lee Jordan
 
 ## Contact
 
-You can contact us using the email or text message details on our [[about]] page, but we cannot respond to all messages, so please understand if we are not able to help you personally.
+You can contact us using the details below, but we cannot respond to all messages, so please understand if we are not able to help you personally.
 
 Looking forward to helping others, together!
 
