@@ -12,4 +12,4 @@ title: About
 
 
 <p><i class="material-icons-outlined">mail</i> arohadevelopment (Gmail)</p>
-<p><i class="material-icons-outlined"message</li> Text 021962004</p>
+<p><i class="material-icons-outlined">message</li> Text 021962004</p>
