@@ -33,32 +33,3 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
-  {% else %}
-    <button class="mdc-button'>
-  <div class="mdc-button__ripple"></div>
-  Older
-</button>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ paginator.previous_page_path | absolute_url }}">Newer</a>
-    {% endif %}
-  {% else %}
-        <button class="mdc-button'>
-  <div class="mdc-button__ripple"></div>
-  Newer
-</button>
-  {% endif %}
-</div>
-
-
-<button class="mdc-button'>
-  <div class="mdc-button__ripple"></div>
-  label
-</button>
