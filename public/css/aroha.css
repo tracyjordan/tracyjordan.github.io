@@ -67,3 +67,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #333333;
   background-color: #ffffe6;
 }
+
+.img-border {
+  border: 1px solid #000000;
+}
