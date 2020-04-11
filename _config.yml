@@ -3,12 +3,12 @@ title:               Aroha Dev
 tagline:             'Development with Love'
 description:         'mobile app development'
 url:                 https://aroha.dev
-baseurl:             https//aroha.dev/
+baseurl:             /
 paginate:            5
 permalink:           pretty
 
 # Use of `relative_permalinks` ensures post links from the index work properly.
-# permalink: /:title/
+permalink: /:title/
 
 # About/contact
 author:
