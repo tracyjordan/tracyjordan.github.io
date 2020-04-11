@@ -64,6 +64,6 @@ h1, h2, h3, h4, h5, h6 {
 .message {
   background-color: unset;
   border: 1px solid #333333;
-  color: #000000;
-  background-color: #ffffcc;
+  color: #333333;
+  background-color: #ffffe6;
 }
