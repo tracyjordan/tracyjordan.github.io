@@ -12,3 +12,4 @@ title: About
 
 
 <i class="material-icons-outlined">mail</i> arohadevelopment (Gmail)
+<span class="material-icons">message</span> Text 021962004
