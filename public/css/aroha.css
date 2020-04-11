@@ -58,3 +58,7 @@ h1, h2, h3, h4, h5, h6 {
 .theme-base-JJ .related-posts li a:hover {
   color: #333333;
 }
+
+.message {
+  border: 1px solid #d7d7d7;
+}
