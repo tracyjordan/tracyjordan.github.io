@@ -26,7 +26,7 @@ Looking forward to helping others!
 Lee Jordan, MBA, MEd, MCouns
 
 <p class="message">
-If you are interested in our services, please email or text in the first instance and if we can help you, we will respond to your message or email.
+If you are interested in our services, please email or text in the first instance and if we think we might be able to help you, we will respond to your message or email.
 </p>
 
 <p><i class="material-icons-outlined md-48">mail</i>&nbsp;&nbsp;arohadevelopment (Gmail)</p>
