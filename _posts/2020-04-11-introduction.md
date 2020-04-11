@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Introduction to Aroha.dev
-date: 2020-04-11 15:10 +12 (NZST)
-categories: [aroha, terminology]
+date: 2020-04-11 15:10 +12
+categories: [aroha,terminology]
 published: true
 ---
 
