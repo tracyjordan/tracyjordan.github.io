@@ -21,5 +21,3 @@ Looking forward to helping others, together!
 ![alt text](https://aroha.dev/public/assets/images/lee-jordan.png "Lee Jordan")
 
 Lee Jordan, MBA, MEd, MCouns
-
-<span class="material-icons">mail</span>
