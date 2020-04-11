@@ -73,8 +73,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .post-date {
+  background-color: unset;
   margin-top: 20px;
   margin-bottom: 20px;
   padding: 20px;
-  border: 1px solid #d7d7d7;
+  border: 1px solid #333333;
 }
