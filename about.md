@@ -13,8 +13,6 @@ This site is being provided by Nocturnal Works Ltd. The director of Nocturnal Wo
 
 <img class="img-border" src="https://aroha.dev/public/assets/images/lee-jordan-programmer.jpg" alt="Lee Jordan">
 
-![alt text](https://aroha.dev/public/assets/images/lee-jordan-programmer.jpg "Lee Jordan")
-
 Nocturnal Works Ltd Director, Lee Jordan
 
 ## Contact
