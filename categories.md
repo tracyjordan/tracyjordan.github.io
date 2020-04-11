@@ -3,7 +3,9 @@ layout: page
 title: Categories
 ---
 
-The terms used on this site are defined on the pages linked below.
+The content of this site is listed by category and linked below.
+
+##Aroha.dev
 
  <ul>
  {% assign sorted_posts = (site.categories.['aroha'] | sort: 'title') %}
@@ -13,6 +15,8 @@ The terms used on this site are defined on the pages linked below.
   </li>
 {% endfor %}
 </ul>
+
+##Terminology
 
  <ul>
  {% assign sorted_posts = (site.categories.['terminology'] | sort: 'title') %}
