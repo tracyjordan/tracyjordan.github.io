@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to Aroha.dev
-date: 2020-04-11 15:10 +12
+date: 2020-04-11 15:10
 categories: [aroha,blog,terminology]
 published: true
 ---
