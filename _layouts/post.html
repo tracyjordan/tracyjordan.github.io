@@ -17,8 +17,13 @@ layout: default
   
   
   {{ content }}
+    <span class="post-date">
+  <i class="material-icons-outlined md-24">person_outline</i>&nbsp;&nbsp;{{ page.author }}<br>
+  <i class="material-icons-outlined md-24">schedule</i>&nbsp;&nbsp;{{ page.date | date_to_rfc822 }} (NZ)<br>
+  <i class="material-icons-outlined md-24">category</i>&nbsp;&nbsp;{{ page.categories | sort | join: ", " }}
+  </span>
+  
 </div>
-
 {% if site.related_posts.size >= 1 %}
 <div class="related">
   <h2>Related posts</h2>
