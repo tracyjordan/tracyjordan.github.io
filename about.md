@@ -11,5 +11,4 @@ title: About
 
 
 
-<span class="material-icons">mail</span> arohadevelopment (Gmail)
 <i class="material-icons-outlined">mail</i> arohadevelopment (Gmail)
