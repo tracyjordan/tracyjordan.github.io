@@ -7,10 +7,6 @@ layout: default
   <span class="post-date"><i class="material-icons-outlined md-24">person_outline</i>&nbsp;&nbsp;{{ page.author }}</span>
   <span class="post-date"><i class="material-icons-outlined md-24">schedule</i>&nbsp;&nbsp;{{ page.date | date_to_rfc822 }} (NZ)</span>
   <span class="post-date"><i class="material-icons-outlined md-24">category</i>&nbsp;&nbsp;{{ page.categories}}</span>
-  {% assign listed_categories = (page.categories) %}
-{% for category in listed_categories %}
-{{ page.categories }}&nbsp;
-{% endfor %}
   {{ content }}
 </div>
 
