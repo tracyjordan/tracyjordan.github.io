@@ -3,7 +3,6 @@ title:               Aroha Dev
 tagline:             'Development with Love'
 description:         'mobile app development'
 url:                 https://aroha.dev
-#baseurl:             /
 paginate:            5
 permalink:           pretty
 
