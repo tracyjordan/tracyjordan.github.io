@@ -18,6 +18,6 @@ Yes, I hope to discuss all of these things on this site! I am currently working 
 
 Looking forward to helping others, together!
 
-![alt text](https://aroha.dev/public/assets/images/lee-jordan.png "Lee Jordan")
+![alt text](https://aroha.dev/public/assets/images/lee-jordan-programmer.png "Lee Jordan")
 
 Lee Jordan, MBA, MEd, MCouns
