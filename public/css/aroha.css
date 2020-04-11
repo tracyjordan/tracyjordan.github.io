@@ -7,7 +7,7 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Sigmar One', cursive;
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
@@ -30,7 +30,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Style and "hide" the sidebar */
 .sidebar {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'Sigmar One', cursive;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
 }
@@ -51,10 +51,10 @@ h1, h2, h3, h4, h5, h6 {
 .theme-base-JJ .sidebar,
 .theme-base-JJ .sidebar-toggle:active,
 .theme-base-JJ #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #ac4142;
+  background-color: #333333;
 }
 .theme-base-JJ .container a,
 .theme-base-JJ .sidebar-toggle,
 .theme-base-JJ .related-posts li a:hover {
-  color: #ac4142;
+  color: #333333;
 }
