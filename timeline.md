@@ -5,7 +5,7 @@ title: Timeline
 
 The posts on this site are listed below in sequence from newer to older.
 
-  {% for post in site.posts | sort: 'date' %}
+  {% for post in site.posts | sort: 'post_date' | reverse %}
   <ul><li>
     <a href="{{ post.url }}">{{ post.title}}</a>
   </li></ul>
