@@ -12,11 +12,11 @@ The posts on this site are listed below in sequence from newer to older.
   {% endfor %}
 
 
-{% assign sorted-posts = site.posts | sort: 'date'%}
-  {% for post in site.posts %}
+{% assign sorted-posts = site.posts | sort: 'date' | reverse %}
+  {% for post in sorted-posts %}
   <ul><li>
     <a href="{{ post.url }}">{{ post.title}}</a>
   </li></ul>
   {% endfor %}
   
-  Jez
+  Jez2
