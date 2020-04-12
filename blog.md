@@ -3,7 +3,7 @@ layout: page
 title: Blog
 ---
 
-The blog posts of this site are listed below, with most recent first.
+The blog posts on this site are listed below in sequence from newer to older.
 
  <ul>
 {% assign sorted_posts = (site.categories.['blog']  | sort: 'date') %}
