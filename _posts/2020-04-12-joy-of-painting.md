@@ -9,14 +9,8 @@ published: true
 
 <h2>The Joy of Painting</h2>
 
-I just watched the first episode of The Joy of Painting. All 13 seasons are available on YouTube
+I just watched the first episode of The Joy of Painting. All 13 seasons are available on YouTube and I might be going through a few of these and trying to draw along on my iPad.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oh5p5f5_-7A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<img src="https://aroha.dev/public/assets/images/lee-jordan.png" alt="Lee Jordan">
-
-Lee Jordan, MBA, MEd, MCouns
-
-
-
-
+Are you looking for inspiration to be creative? There is so much around to inspire, from tramping through the bush, to enjoying the joy that Bob Ross left us.
