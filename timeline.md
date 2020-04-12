@@ -18,3 +18,5 @@ The posts on this site are listed below in sequence from newer to older.
     <a href="{{ post.url }}">{{ post.title}}</a>
   </li></ul>
   {% endfor %}
+  
+  Jez
