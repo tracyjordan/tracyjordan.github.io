@@ -7,7 +7,7 @@ title: About
 
 Aroha Dev is being created as a resource for those who want to develop mobile apps, web apps, provide e-learning or offer data science to not-for-profit organisations. This site is being started during the national lock-down for COVID-19 in Aotearoa New Zealand and it is hoped that these resources will assist teachers, trainers and other support workers who are making sure that we are all being cared for - thank you for your efforts!
 
-## Noctural Works Ltd
+## Nocturnal Works Ltd
 
 This site is being provided by Nocturnal Works Ltd. The director of Nocturnal Works, Lee, has been involved in IT and education since the 1990s and mental health work since 2009.
 
