@@ -29,7 +29,3 @@ Jez1
   </li>
 {% endfor %}
 </ul>
-
-
-
-, "post.date | date: '%Y'"
