@@ -13,16 +13,6 @@ The posts on this site are listed below in sequence from newer to older.
   </li>
   {% endfor %}
   </ul>
-  
-<h2>2020</h2>  
-  
- <ul>
- {% assign sorted_posts = (site.categories.['2020']) %}
-{% for post in sorted_posts %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
-</ul>
+
 
 Jez1
