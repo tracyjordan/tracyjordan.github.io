@@ -30,7 +30,7 @@ Jez1
 
   5
   
-	{% assign postsByYear = research | group_by_exp:"post", "post.date | date: '%Y'" %}
+	{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 	{% for year in postsByYear %}
 	  <h3 id="{{ year.name | slugify }}">{{ year.name }}</h3>
 		{% for post in year.items %}
