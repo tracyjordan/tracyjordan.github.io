@@ -2,7 +2,7 @@
 layout: post
 title: Introduction to Aroha.dev
 date: 2020-04-11
-categories: [aroha, blog, terminology]
+categories: [2020, aroha, blog, terminology]
 author: Lee Jordan
 published: true
 ---
