@@ -20,9 +20,8 @@ Jez1
   
   3
   
-  
    <ul>
- {% assign sorted_posts = (site.year.['2020'] | sort: 'post_date') %}
+ {% assign sorted_posts = (site.year.[2020] | sort: 'post_date') %}
 {% for post in sorted_posts %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
