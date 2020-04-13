@@ -30,12 +30,13 @@ Jez1
 
   5
   
-	{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
-	{% for year in postsByYear %}
-	  <h3 id="{{ year.name | slugify }}">{{ year.name }}</h3>
-		{% for post in year.items %}
-		{% assign postYear = post.date | date:"%Y" %}
-				<h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-				<h6>{{ post.author }}</h6>
-			{% endfor %}
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+<h2>{{ year.name }}</h2>
+<ul>
+{% for post in year.items %}
+{% assign postYear = post.date | date:"%Y" %}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+</ul>			
+{% endfor %}
 	{% endfor %}
