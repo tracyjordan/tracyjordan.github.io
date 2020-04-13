@@ -38,5 +38,6 @@ Jez1
 {% assign postYear = post.date | date:"%Y" %}
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>		
 {% endfor %}
-	{% endfor %}
-	</ul>	
+</ul>	
+{% endfor %}
+
