@@ -36,7 +36,7 @@ Jez1
 <ul>
 {% for post in year.items %}
 {% assign postYear = post.date | date:"%Y" %}
-<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-</ul>			
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>		
 {% endfor %}
 	{% endfor %}
+	</ul>	
