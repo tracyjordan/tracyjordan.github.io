@@ -13,6 +13,10 @@ I just watched the first episode of The Joy of Painting. All 13 seasons are avai
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/oh5p5f5_-7A" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/oh5p5f5_-7A" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Are you looking for inspiration to be creative? There is so much around to inspire, from tramping through the bush, to enjoying the joy that Bob Ross left us.
+
+<h2>Software for Painting</h2>
+
+There is a lot of software to help you paint, depending on your hardware. I am starting with Autodesk Sketchbook.
+
+<img class="img-border" src="https://aroha.dev/public/assets/images/app-development-autodesk-sketchbook.png" alt="Lee Jordan">
