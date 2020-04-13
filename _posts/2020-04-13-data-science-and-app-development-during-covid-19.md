@@ -2,7 +2,7 @@
 layout: post
 title: Data Science And App Development During COVID-19
 date: 2020-04-13
-categories: [2020, blog]
+categories: [blog]
 author: Lee Jordan
 published: true
 ---
