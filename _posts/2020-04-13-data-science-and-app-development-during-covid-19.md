@@ -7,7 +7,7 @@ author: Lee Jordan
 published: true
 ---
 
-<h2>The Joy of Painting</h2>
+<h2>App Development/h2>
 
 The last two weeks in lock-down have given me both time to think and time to work on things that have been planned for awhile. Thinking about the difficulties others are going through, thinking about what the future might hold and lots of other things. It has been a sad thing each morning to wake up and see the increasing death toll globally.
 
