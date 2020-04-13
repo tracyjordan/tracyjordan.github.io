@@ -13,13 +13,3 @@ The posts on this site are listed below in sequence from newer to older.
   </li>
   {% endfor %}
   </ul>
-
-
-<ul>
-{% assign sorted-posts = site.posts | sort: 'post_date' | group_by: 'post_year' %}
-  {% for post in sorted-posts %}
-  <li>
-    {{post.year}}<a href="{{ post.url }}">{{ post.title}}</a>
-  </li>
-  {% endfor %}
-  </ul>
