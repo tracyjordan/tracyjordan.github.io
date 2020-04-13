@@ -26,3 +26,14 @@ Jez1
   </li>
   {% endfor %}
   </ul>
+  
+  2
+  
+  <ul>
+{% assign sorted-posts = site.posts | sort: 'post_date' | where: %Y,"2020" %}
+  {% for post in sorted-posts %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title}}</a>
+  </li>
+  {% endfor %}
+  </ul>
