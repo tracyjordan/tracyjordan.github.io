@@ -17,13 +17,15 @@ The posts on this site are listed below in sequence from newer to older.
 
 Jez1
   
-  2
   
-  <ul>
-{% assign sorted-posts = site.posts | sort: 'post_date' | date: '%Y',"2020" %}
-  {% for post in sorted-posts %}
+  3
+  
+  
+   <ul>
+ {% assign sorted_posts = (site.year.['2020'] | sort: 'post_date') %}
+{% for post in sorted_posts %}
   <li>
-    <a href="{{ post.url }}">{{ post.title}}</a>
+    <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
-  {% endfor %}
-  </ul>
+{% endfor %}
+</ul>
