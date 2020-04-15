@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Joy of Painting
-date: 2020-04-12
+date: 2020-04-12 13:35
 categories: [art, blog]
 author: Lee Jordan
 published: true
