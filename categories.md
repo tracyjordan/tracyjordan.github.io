@@ -26,3 +26,16 @@ The content of this site is listed by category and linked below.
   </li>
 {% endfor %}
 </ul>
+
+<h2>Art</h2>
+
+{% assign postsByYear = (site.categories.['art'] | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+<h2>{{ year.name }}</h2>
+<ul>
+{% for post in year.items %}
+{% assign postYear = post.date | date:"%Y" %}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>		
+{% endfor %}
+</ul>	
+{% endfor %}
