@@ -21,7 +21,7 @@ The course link is <a href="https://www.appbrewery.co/courses/851555">here</a>.
 
 <h2>Reviewing Course</h2>
 
-I might sit through this course to see if there is anything I don't already know in this space. Something for self-isolation in Aotearoa time!
+I might sit through this course to see if there is anything I don't already know in this space. Something for self-isolation in Aotearoa New Zealand time!
 
 <img src="https://aroha.dev/public/assets/images/lee-jordan.png" alt="Lee Jordan">
 
