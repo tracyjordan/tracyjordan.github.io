@@ -21,7 +21,7 @@ The posts on this site are in categories and listed below in sequence from newer
 
 {% assign postsByYear = (site.categories.['aroha'] | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
-<h2>Aroha.dev - {{ year.name }}</h2>
+<h2>Aroha.dev ({{ year.name }})</h2>
 <ul>
 {% for post in year.items %}
 {% assign postYear = post.date | date:"%Y" %}
