@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Free Flutter App Development Course at The App Brewery
-date: 2020-04-15
+date: 2020-04-15 17:20
 categories: [blog,courses]
 author: Lee Jordan
 published: true
