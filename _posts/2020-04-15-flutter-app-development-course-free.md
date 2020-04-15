@@ -17,7 +17,7 @@ I visited Flutter.dev this afternoon and noted there was a new course in Flutter
 
 This free course offers a PDF certificate on successful completion and is also part of a larger certificate. 
 
-The course link is <a href="https://www.appbrewery.co/courses/851555">here</a>.
+The course link is <a href="https://www.appbrewery.co/courses/851555" title="Flutter App Development Course" target="_blank" rel="nofollow">here</a>.
 
 <h2>Reviewing Course</h2>
 
