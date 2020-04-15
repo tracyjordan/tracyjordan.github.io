@@ -16,7 +16,6 @@ The posts on this site are in categories and listed below in sequence from newer
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>		
 {% endfor %}
 </ul>	
-{% endfor %}
 
 <h2>Art</h2>
 
@@ -28,6 +27,7 @@ The posts on this site are in categories and listed below in sequence from newer
 {% assign postYear = post.date | date:"%Y" %}
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>		
 {% endfor %}
+  </ul>
   
 <h2>Courses</h2>
 
@@ -40,4 +40,3 @@ The posts on this site are in categories and listed below in sequence from newer
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>		
 {% endfor %}  
 </ul>	
-{% endfor %}
