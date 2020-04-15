@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Toulouse-Lautrec - At the Bar Picton, Rue Scribe (1896)
-date: 2020-04-15 14:52:00
+date: 2020-04-15 14:52
 categories: [art]
 author: Lee Jordan
 published: true
