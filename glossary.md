@@ -3,7 +3,7 @@ layout: page
 title: Glossary
 ---
 
-The terms used on this site are defined on the pages linked below.
+Important terms used on this site are linked below.
 
  <ul>
  {% assign sorted_posts = (site.categories.['terminology'] | sort: 'title') %}
