@@ -3,7 +3,7 @@ layout: page
 title: Categories
 ---
 
-The content of this site is listed by category (grouped by year which more recent posts first) and linked below.
+The content of this site is listed by category and grouped by year with more recent posts first.
 
 <h2>Aroha.dev</h2>
 
