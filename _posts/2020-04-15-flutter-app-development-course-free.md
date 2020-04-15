@@ -9,7 +9,7 @@ published: true
 
 <h2>Flutter.dev Free Course Notice</h2>
 
-I visited Flutter.dev this afternoon and noted there was a new course in Flutter development that is being promoted by the Flutter team on their own homepage and which is free - yes, free. I have taken online courses from Angela at The App Brewery before on LinkedIn Learning and highly recommend her courses. She is energetic, informed and presents complex content in clear ways. 
+I visited Flutter.dev this afternoon and noted there was a new course in Flutter development that is being promoted by the Flutter team on their own homepage and which is free - yes, free. I have taken online courses from Angela at <i>The App Brewery</i> before on <i>LinkedIn Learning</i> and highly recommend her courses. She is energetic, informed and presents complex content in clear ways. 
 
 <img class="img-border" src="https://aroha.dev/public/assets/images/flutter-dev-free-app-course-app-brewery.jpg" alt="Free Flutter App Development Course at The App Brewery">
 
