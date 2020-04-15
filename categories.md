@@ -27,7 +27,7 @@ The posts on this site are in categories and listed below in sequence from newer
 {% assign postYear = post.date | date:"%Y" %}
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>		
 {% endfor %}
-  </ul>
+</ul>	
   
 <h2>Courses</h2>
 
@@ -38,5 +38,5 @@ The posts on this site are in categories and listed below in sequence from newer
 {% for post in year.items %}
 {% assign postYear = post.date | date:"%Y" %}
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>		
-{% endfor %}  
+{% endfor %}
 </ul>	
