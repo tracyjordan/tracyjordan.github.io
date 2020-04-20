@@ -5,9 +5,9 @@ title: Categories
 
 The posts on this site are in categories and listed below in sequence from newer to older.
 
-{% assign postsByYear = (site.categories.['aroha'] | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign postsByYear = (site.categories.['education'] | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
-<h2>Aroha.dev ({{ year.name }})</h2>
+<h2>Education({{ year.name }})</h2>
 <ul>
 {% for post in year.items %}
 {% assign postYear = post.date | date:"%Y" %}
@@ -16,9 +16,9 @@ The posts on this site are in categories and listed below in sequence from newer
 </ul>	
 {% endfor %}
 
-{% assign postsByYear = (site.categories.['art'] | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign postsByYear = (site.categories.['projects'] | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
-<h2>Art ({{ year.name }})</h2>
+<h2>Projects ({{ year.name }})</h2>
 <ul>
 {% for post in year.items %}
 {% assign postYear = post.date | date:"%Y" %}
@@ -27,9 +27,9 @@ The posts on this site are in categories and listed below in sequence from newer
 </ul>	
 {% endfor %}
 
-{% assign postsByYear = (site.categories.['courses'] | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign postsByYear = (site.categories.['posts'] | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
-<h2>Courses ({{ year.name }})</h2>
+<h2>Posts ({{ year.name }})</h2>
 <ul>
 {% for post in year.items %}
 {% assign postYear = post.date | date:"%Y" %}
@@ -38,9 +38,9 @@ The posts on this site are in categories and listed below in sequence from newer
 </ul>	
 {% endfor %}
 
-{% assign postsByYear = (site.categories.['software'] | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign postsByYear = (site.categories.['terminology'] | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
-<h2>Software ({{ year.name }})</h2>
+<h2>Glossary ({{ year.name }})</h2>
 <ul>
 {% for post in year.items %}
 {% assign postYear = post.date | date:"%Y" %}
