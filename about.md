@@ -22,9 +22,3 @@ You can use the contact form <a href="https://nocturnalworks.com/contact" title=
 ![alt text](https://aroha.dev/public/assets/images/lee-jordan.png "Lee Jordan")
 
 Lee Jordan, MBA, MEd, MCouns
-
-<p class="message">
-Please email or text in the first instance. I tend not to answer calls from unknown numbers.
-</p>
-
-<p><i class="material-icons-outlined md-48">message</i>&nbsp;&nbsp;+6421962004 (text)</p>
