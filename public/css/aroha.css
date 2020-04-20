@@ -101,6 +101,10 @@ p a {
   text-decoration: underline;
 }
 
+.post a {
+  text-decoration: underline;
+}
+
 .page a {
   text-decoration: underline;
 }
