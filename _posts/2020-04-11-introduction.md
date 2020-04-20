@@ -2,7 +2,7 @@
 layout: post
 title: Introduction to Gerald.mba
 date: 2020-04-11 13:10
-categories: [education, projects, posts, terminology]
+categories: [projects, posts, terminology]
 author: Lee Jordan
 published: true
 ---
