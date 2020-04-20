@@ -96,7 +96,3 @@ p a {
 .theme-base-GJ .related-posts li a:hover {
   color: #3c4c54;
 }
-
-.masthead-title .small {
- text-transform: lowercase; 
-}
