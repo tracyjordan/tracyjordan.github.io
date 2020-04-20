@@ -9,7 +9,7 @@ published: true
 
 <h2>Instructional Design: Models of ID</h2>
 
-"Instructional design models are frameworks to help you create quality training. In this course, author and instructional design expert Shea Hanson explores some of the most salient models of instructional design: ADDIE, SAM, Rapid Prototyping, and Gradual Release. Watch scenarios that show how each model performs in action in the workplace, which Shea follows with an 
+"Instructional design models are frameworks to help you create quality training. In this course, author and instructional design expert Shea Hanson explores some of the most salient models of instructional design: ADDIE, SAM, Rapid Prototyping, and Gradual Release. Watch scenarios that show how each model performs in action in the workplace, which Shea follows with an examination of its pros and cons. She also provides some helpful resources that will lead to your next step."
 
 <h2>Certificate of Completion</h2>
 
