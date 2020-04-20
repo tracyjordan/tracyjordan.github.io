@@ -84,3 +84,15 @@ p a {
   padding: 20px;
   border: 1px solid #333333;
 }
+
+/* Gerald Lee Jordan Theme */
+.theme-base-GJ .sidebar,
+.theme-base-GJ .sidebar-toggle:active,
+.theme-base-GJ #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #333333;
+}
+.theme-base-GJ .container a,
+.theme-base-GJ .sidebar-toggle,
+.theme-base-GJ .related-posts li a:hover {
+  color: #333333;
+}
