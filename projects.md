@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-The blog posts on this site are listed below in sequence from newer to older.
+The project posts on this site are listed below in sequence from newer to older.
 
 {% assign postsByYear = (site.categories.['projects'] | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
