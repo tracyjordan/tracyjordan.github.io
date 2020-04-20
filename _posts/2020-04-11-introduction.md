@@ -7,7 +7,7 @@ author: Lee Jordan
 published: true
 ---
 
-<h2>Gerald.mba</h2>
+<h2>My Online Portfolio</h2>
 
 I am creating this site to showcase my professional life - an online C.V. of sorts. I hope to be able to include more information than on my C.V., including showcasing some of my projects. Ultimately, this site will be a place where I can direct others interested in my work. 
 
