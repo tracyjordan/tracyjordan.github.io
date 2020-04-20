@@ -13,4 +13,4 @@ published: true
 
 <h2>Certificate of Completion</h2>
 
-<a href="https://www.gerald.mba/public/pdfs/twelve-myths-about-data-science-certificate-of-completion.pdf" title="Twelve Myths About Data Science" target="_blank" rel="nofollow">https://www.gerald.mba/public/pdfs/twelve-myths-about-data-science-certificate-of-completion.pdf</a>
+<a href="https://gerald.mba/public/pdfs/twelve-myths-about-data-science-certificate-of-completion.pdf" title="Twelve Myths About Data Science" target="_blank" rel="nofollow">https://gerald.mba/public/pdfs/twelve-myths-about-data-science-certificate-of-completion.pdf</a>
