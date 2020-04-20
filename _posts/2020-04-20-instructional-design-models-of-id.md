@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instructional Design: Models of ID
+title: Instructional Design (Models of ID)
 date: 2020-04-20 12:43
 categories: [blog, courses]
 author: Lee Jordan
@@ -13,4 +13,4 @@ published: true
 
 <h2>Certificate of Completion</h2>
 
-http://www.lynda.com/Higher-Education-tutorials/Instructional-Design-Essentials-Models-ID/161318-2.html
+<a href="http://www.lynda.com/Higher-Education-tutorials/Instructional-Design-Essentials-Models-ID/161318-2.html" title="Instructional Design: Models of ID" target="_blank" rel="nofollow">http://www.lynda.com/Higher-Education-tutorials/Instructional-Design-Essentials-Models-ID/161318-2.html</a>
