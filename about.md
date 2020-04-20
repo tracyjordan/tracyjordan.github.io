@@ -9,7 +9,7 @@ I have been involved with counselling since the early 1980s, an educator and web
 
 <img class="img-border" src="https://aroha.dev/public/assets/images/lee-jordan-programmer.jpg" alt="Lee Jordan">
 
-Lee Jordan, MBA, MEd, MCouns
+Lee Jordan
 
 ## Nocturnal Works Ltd
 
