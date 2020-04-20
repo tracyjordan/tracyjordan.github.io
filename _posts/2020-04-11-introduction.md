@@ -1,23 +1,17 @@
 ---
 layout: post
-title: Introduction to Aroha.dev
+title: Introduction to Gerald.mba
 date: 2020-04-11 13:10
-categories: [education, projects, terminology]
+categories: [education, projects, posts, terminology]
 author: Lee Jordan
 published: true
 ---
 
-<h2>Aroha.dev</h2>
+<h2>Gerald.mba</h2>
 
-Last night my son and I went for a walk behind our home. It is one of the few times we are able to get out during the current self-isolation and it is joyous to walk, talk and listen to the birds. While walking, we had a conversation in which my son said that this pandemic and the resulting lock-down have given him time to consider things from a more philosophical perspective and to think more of others. I was very proud of him.
+I am creating this site to showcase my professional life - an online C.V. of sorts. I hope to be able to include more information than on my C.V., including showcasing some of my projects. Ultimately, this site will be a place where I can direct others interested in my work. 
 
-I purchased this site recently as an effort to help others. We were already in lock-down and I was thinking of the need for elearning, app development and other skills, as New Zealand and the world quickly migrate to even more elearning. I decided that I could pull together my desire to help others with my professional expertise in online training, app development, data science and a number of other areas. From this desire to help, this site was born.
-
-<h2>Mobile App Development, E-Learning, Data Science and More</h2>
-
-Yes, I hope to discuss all of these things on this site! I am currently working through a mobile app to help those in self-isolation and might even post a bit about this development.
-
-Looking forward to helping others!
+Note that this site should be reviewed in tandem with my business site in order to see what is happening in my professional world.
 
 <img src="https://aroha.dev/public/assets/images/lee-jordan.png" alt="Lee Jordan">
 
