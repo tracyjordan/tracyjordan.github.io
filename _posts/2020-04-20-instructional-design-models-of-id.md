@@ -18,8 +18,3 @@ published: true
 <h2>Certificate of Completion</h2>
 
 <a href="https://www.lynda.com/ViewCertificate/CD9494094C3745CD930F3D5C88DC51C1" title="Instructional Design: Models of ID" target="_blank" rel="nofollow">https://www.lynda.com/ViewCertificate/CD9494094C3745CD930F3D5C88DC51C1</a>
-
-
-
-
-Instructional Design: Models of ID
