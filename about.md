@@ -3,31 +3,28 @@ layout: page
 title: About
 ---
 
-## Aroha.dev
+## Gerald Lee Jordan
 
-Aroha Dev is being created as a resource for those who want to develop mobile apps, web apps, provide e-learning or offer data science to not-for-profit organisations. This site is being started during the national lock-down for COVID-19 in Aotearoa New Zealand and it is hoped that these resources will assist teachers, trainers and other support workers who are making sure that we are all being cared for - thank you for your efforts!
-
-## Nocturnal Works Ltd
-
-This site is being provided by Nocturnal Works Ltd. The director of Nocturnal Works, Lee, has been involved in IT and education since the 1990s and mental health work since 2009.
+I have been involved with counselling since the early 1980s, an educator and website creator since the mid 1990s and an instructional designer of online content since 2003. Add to this experience as a Learning Management System administrator, a mobile app develop and (most currently) a data scientist and my experience has been quite broad to date!
 
 <img class="img-border" src="https://aroha.dev/public/assets/images/lee-jordan-programmer.jpg" alt="Lee Jordan">
 
-Nocturnal Works Ltd Director, Lee Jordan
+Lee Jordan, MBA, MEd, MCouns
+
+## Nocturnal Works Ltd
+
+My business website is <a href="https://nocturnalworks.com" title="Nocturnal Works Ltd" target="_blank" rel="nofollow">here</a>.
 
 ## Contact
 
-You can contact us using the details below, but we cannot respond to all messages, so please understand if we are not able to help you personally.
-
-Looking forward to helping others!
+You can use the contact form <a href="https://nocturnalworks.com/contact" title="Nocturnal Works Ltd contact form" target="_blank" rel="nofollow">here</a> to contact me.
 
 ![alt text](https://aroha.dev/public/assets/images/lee-jordan.png "Lee Jordan")
 
 Lee Jordan, MBA, MEd, MCouns
 
 <p class="message">
-If you are interested in our services, please email or text in the first instance and if we think we might be able to help you, we will respond to your message or email.
+Please email or text in the first instance. I tend not to answer calls from private or unknown numbers.
 </p>
 
-<p><i class="material-icons-outlined md-48">mail</i>&nbsp;&nbsp;arohadevelopment (Gmail)</p>
 <p><i class="material-icons-outlined md-48">message</i>&nbsp;&nbsp;+6421962004 (text)</p>
