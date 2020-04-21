@@ -108,3 +108,8 @@ p a {
 .page a {
   text-decoration: underline;
 }
+
+.instagram-style {
+ border: 1px solid #000000;
+ margin: auto;
+}
