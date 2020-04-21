@@ -112,4 +112,6 @@ p a {
 .instagram-style {
  border: 1px solid #000000;
  margin: auto;
+ width: 50%;
+ padding: 10px;
 }
