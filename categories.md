@@ -16,7 +16,7 @@ The posts on this site are in categories and listed below in sequence from newer
 </ul>	
 {% endfor %}
 
-{% assign postsByYear = (site.categories.['maori'] | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign postsByYear = (site.categories.['māori'] | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 <h2>Māori ({{ year.name }})</h2>
 <ul>
