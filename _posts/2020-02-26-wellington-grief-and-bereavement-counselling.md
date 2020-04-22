@@ -2,7 +2,7 @@
 layout: post
 title: Wellington Grief and Bereavement Counselling
 date: 2020-03-18 00:00
-categories: [blog, wellington]
+categories: [blog]
 author: Lee Jordan
 published: true
 ---
