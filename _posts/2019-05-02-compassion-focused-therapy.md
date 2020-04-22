@@ -2,7 +2,7 @@
 layout: post
 title: Compassion-Focused Therapy
 date: 2019-05-02 18:41
-categories: [blog, podcast, therapy]
+categories: [blog, podcasts, therapy]
 author: Lee Jordan
 published: true
 ---
