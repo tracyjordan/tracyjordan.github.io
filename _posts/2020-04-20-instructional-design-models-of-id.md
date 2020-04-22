@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instructional Design (Models of ID)
+title: Instructional Design (Models Of ID)
 date: 2020-04-20 12:43
 categories: [blog, professional]
 author: Lee Jordan
