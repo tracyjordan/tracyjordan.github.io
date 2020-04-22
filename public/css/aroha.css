@@ -109,7 +109,3 @@ p a {
 .page a {
   text-decoration: underline;
 }
-
-.sidebar-toggle::before {
-    border: 1px solid #d7d7d7;
-}
