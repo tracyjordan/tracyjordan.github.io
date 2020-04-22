@@ -89,12 +89,13 @@ p a {
 .theme-base-GJ .sidebar,
 .theme-base-GJ .sidebar-toggle:active,
 .theme-base-GJ #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #3c4c54;
+  background-color: #333333;
 }
 .theme-base-GJ .container a,
 .theme-base-GJ .sidebar-toggle,
 .theme-base-GJ .related-posts li a:hover {
-  color: #3c4c54;
+  color: #333333;
+/*  color: #3c4c54; */
 }
 
 .posts a {
