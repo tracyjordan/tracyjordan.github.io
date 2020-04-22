@@ -27,6 +27,17 @@ The posts on this site are in categories and listed below in sequence from newer
 </ul>	
 {% endfor %}
 
+{% assign postsByYear = (site.categories.['poetry'] | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+<h2>Poetry ({{ year.name }})</h2>
+<ul>
+{% for post in year.items %}
+{% assign postYear = post.date | date:"%Y" %}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>		
+{% endfor %}
+</ul>	
+{% endfor %}
+
 {% assign postsByYear = (site.categories.['professional'] | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 <h2>Professional ({{ year.name }})</h2>
