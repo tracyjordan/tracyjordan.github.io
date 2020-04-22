@@ -2,7 +2,7 @@
 layout: post
 title: Twelve Myths About Data Science
 date: 2020-04-20 17:25
-categories: [education, posts]
+categories: [blog, professional]
 author: Lee Jordan
 published: true
 ---
