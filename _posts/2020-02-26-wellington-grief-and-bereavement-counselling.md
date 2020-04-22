@@ -7,9 +7,9 @@ author: Lee Jordan
 published: true
 ---
 
-<h2>Listening to my heart</h2><
+<h2>Listening to my heart</h2>
 
-p>My heart has been drawn to grief and bereavement work for a number of years. Counselling is my passion and within this I have felt the pull towards helping those suffering through the loss of loved ones. How does this look?</p>
+<p>My heart has been drawn to grief and bereavement work for a number of years. Counselling is my passion and within this I have felt the pull towards helping those suffering through the loss of loved ones. How does this look?</p>
 
 <h2>Grief and Bereavement Counselling</h2>
 
