@@ -109,3 +109,8 @@ p a {
 .page a {
   text-decoration: underline;
 }
+
+.embedded-content {
+  color: #333333;
+  padding: 10px;
+}
