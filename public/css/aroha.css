@@ -109,3 +109,7 @@ p a {
 .page a {
   text-decoration: underline;
 }
+
+ul li a {
+ text-transform: capitalize; 
+}
