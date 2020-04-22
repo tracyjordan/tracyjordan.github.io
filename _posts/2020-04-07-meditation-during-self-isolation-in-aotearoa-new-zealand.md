@@ -11,6 +11,6 @@ published: true
 
 <p>I have made some audio files and might share a few here.</p><p>Kia kaha, whānau!</p>
 
-<img src="https://gerald.mba/public/assets/images/lee-jordan.png" alt="Lee Jordan">
+<img src="https://geraldleejordan.com/public/assets/images/lee-jordan.png" alt="Lee Jordan">
 
 Lee Jordan, MBA, MEd, MCouns
