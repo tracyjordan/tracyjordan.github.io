@@ -83,6 +83,17 @@ The posts on this site are in categories and listed below in sequence from newer
 </ul>	
 {% endfor %}
 
+{% assign postsByYear = (site.categories.['therapy'] | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+<h2>Therapy ({{ year.name }})</h2>
+<ul>
+{% for post in year.items %}
+{% assign postYear = post.date | date:"%Y" %}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>		
+{% endfor %}
+</ul>	
+{% endfor %}
+
 {% assign postsByYear = (site.categories.['walks'] | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 <h2>Walks ({{ year.name }})</h2>
