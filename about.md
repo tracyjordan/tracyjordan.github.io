@@ -5,7 +5,7 @@ title: About
 
 ## Gerald Lee Jordan
 
-I have been involved with counselling since the early 1980s, an educator and website creator since the mid 1990s and an instructional designer of online content since 2003. Add to this experience as a Learning Management System administrator, a mobile app developer and (most currently) a data scientist and my experience has been quite broad to date!
+I have been involved with counselling since the early 1980s, an educator and website creator since the mid 1990s and an instructional designer of online content since 2003. Add to this experience as a Learning Management System administrator, a mobile app developer and (most currently) studies in data science and my experience has been quite broad to date.
 
 <img class="img-border" src="https://geraldleejordan.com/public/assets/images/lee-jordan-programmer.jpg" alt="Lee Jordan">
 
