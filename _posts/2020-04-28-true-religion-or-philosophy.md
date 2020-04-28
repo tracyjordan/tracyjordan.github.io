@@ -11,4 +11,4 @@ published: true
 
 "Any religion or philosophy which is not based on a respect for life is not a true religion or philosophy."
 
-        Albert Schweitzer, Letter to a Japanese Animal Welfare Society (1961)
+~ Albert Schweitzer, Letter to a Japanese Animal Welfare Society (1961)
