@@ -50,6 +50,17 @@ The posts on this site are in categories and listed below in sequence from newer
 </ul>	
 {% endfor %}
 
+{% assign postsByYear = (site.categories.['philosophy'] | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+<h2>Philosophy ({{ year.name }})</h2>
+<ul>
+{% for post in year.items %}
+{% assign postYear = post.date | date:"%Y" %}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>		
+{% endfor %}
+</ul>	
+{% endfor %}
+
 {% assign postsByYear = (site.categories.['podcasts'] | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 <h2>Podcasts ({{ year.name }})</h2>
