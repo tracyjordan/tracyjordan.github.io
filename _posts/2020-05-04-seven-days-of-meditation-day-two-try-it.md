@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seven Days of Meditation - Day Two Try It
-date: 2020-05-04 17:00
+date: 2020-05-04 17:00:00 +1200
 categories: [blog, podcasts, meditation, therapy]
 author: Lee Jordan
 published: true
