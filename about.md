@@ -19,7 +19,9 @@ My business website is <a href="https://nocturnalworks.com" title="Nocturnal Wor
 
 You can use the contact form <a href="https://nocturnalworks.com/contact" title="Nocturnal Works Ltd contact form" target="_blank" rel="nofollow">here</a> to contact me.
 
-If you are already a chat and would prefer a more immediate response, you can reach me on Keybase <a href="https://keybase.io/geraldleejordan/chat" rel="nofollow" target="_blank">here</a>.
+## Keybase
+
+If you are already a client and would prefer a more immediate response, you can reach me on Keybase <a href="https://keybase.io/geraldleejordan/chat" rel="nofollow" target="_blank">here</a>.
 
 ![alt text](https://geraldleejordan.com/public/assets/images/lee-jordan.png "Lee Jordan")
 
