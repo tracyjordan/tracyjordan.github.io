@@ -113,3 +113,7 @@ p a {
 ul li a {
  text-transform: capitalize; 
 }
+
+.twitter-tweet {
+  width: 100%;
+}
