@@ -9,7 +9,7 @@ published: true
 
 <h2>Seven Days of Meditation</H2>
 
-I have been working on an app for those in lockdown - an app that takes those new to meditation through seven days of meditation practice. I realised that there is no reason not to go ahead and upload the audio files, so here is the first day try it exercise.
+I have been working on an app for those in lockdown - an app that takes those new to meditation through seven days of meditation practice. I realised that there is no reason not to go ahead and upload the audio files, so here is the second day try it exercise.
 
 This second day emphasises Compassion Meditation.
 
