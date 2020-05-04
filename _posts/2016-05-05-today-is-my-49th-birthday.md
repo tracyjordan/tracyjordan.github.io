@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Today is my 49th birthday
-date: 2016-05-05 00:00
+date: 2016-05-05 00:00:00 +1200
 categories: [blog]
 author: Lee Jordan
 published: true

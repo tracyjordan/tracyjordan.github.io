@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Standard Ebooks
-date: 2020-04-27 10:18
+date: 2020-04-27 10:18:00 +1200
 categories: [blog, books]
 author: Lee Jordan
 published: true

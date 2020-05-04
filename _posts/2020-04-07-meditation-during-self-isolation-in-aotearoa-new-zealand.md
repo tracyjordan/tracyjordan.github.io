@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meditation During Self-Isolation In Aotearoa New Zealand
-date: 2020-04-07 00:00
+date: 2020-04-07 00:00:00 +1200
 categories: [blog,meditation]
 author: Lee Jordan
 published: true

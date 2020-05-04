@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seven Days of Meditation - Day Two Warm-Up
-date: 2020-05-04 13:09
+date: 2020-05-04 13:09:00 +1200
 categories: [blog, podcasts, meditation, therapy]
 author: Lee Jordan
 published: true

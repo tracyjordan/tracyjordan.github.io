@@ -1,7 +1,7 @@
 ---
 layout: post
 title: True Religion or Philosophy - Albert Schweitzer
-date: 2020-04-28 18:55
+date: 2020-04-28 18:55:00 +1200
 categories: [blog, philosophy]
 author: Lee Jordan
 published: true

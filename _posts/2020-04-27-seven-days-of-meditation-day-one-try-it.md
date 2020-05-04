@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seven Days of Meditation - Day One Try It
-date: 2020-04-27 12:38
+date: 2020-04-27 12:38:00 +1200
 categories: [blog, podcasts, meditation, therapy]
 author: Lee Jordan
 published: true

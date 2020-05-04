@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Spirituality Of Veganism
-date: 2020-03-18 00:00
+date: 2020-03-18 00:00:00 +1200
 categories: [blog]
 author: Lee Jordan
 published: true
