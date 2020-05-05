@@ -13,4 +13,10 @@ published: true
 
 <h2>Certificate of Completion</h2>
 
-<a href="https://www.lynda.com/ViewCertificate/CD9494094C3745CD930F3D5C88DC51C1" title="Instructional Design: Models of ID" target="_blank" rel="nofollow">https://www.lynda.com/ViewCertificate/CD9494094C3745CD930F3D5C88DC51C1</a>
+<a href="https://geraldleejordan.com/public/pdf/instructional-design-models-of-id-2014-certificate-of-completion.pdf" title="Introduction to Data Science" target="_blank" rel="nofollow">https://geraldleejordan.com/public/pdf/instructional-design-models-of-id-2014-certificate-of-completion.pdf</a>
+
+
+
+
+
+
