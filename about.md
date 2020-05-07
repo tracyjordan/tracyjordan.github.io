@@ -17,11 +17,11 @@ My business website is <a href="https://nocturnalworks.com" title="Nocturnal Wor
 
 ## Contact
 
-You can use the contact form <a href="https://nocturnalworks.com/contact" title="Nocturnal Works Ltd contact form" target="_blank" rel="nofollow">here</a> to contact me.
+You can contact me using the url of this site (my name) @gmail.com.
 
 ## Keybase
 
-If you are already a client and would prefer a more immediate response, you can reach me on Keybase <a href="https://keybase.io/geraldleejordan/chat" rel="nofollow" target="_blank">here</a>.
+If you are a client and would prefer a more immediate response, you can reach me on Keybase <a href="https://keybase.io/geraldleejordan/chat" rel="nofollow" target="_blank">here</a>.
 
 ![alt text](https://geraldleejordan.com/public/assets/images/lee-jordan.png "Lee Jordan")
 
