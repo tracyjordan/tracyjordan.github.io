@@ -17,7 +17,7 @@ My business website is <a href="https://nocturnalworks.com" title="Nocturnal Wor
 
 ## Contact
 
-You can contact me using the url of this site (my name) @gmail.com.
+You can contact me using my name geraldleejordan and then append @gmail.com.
 
 ## Keybase
 
