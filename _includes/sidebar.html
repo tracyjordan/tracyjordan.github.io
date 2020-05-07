@@ -12,22 +12,30 @@
     <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
 
     {% comment %}
-      The code below dynamically generates a sidebar nav of pages with
-      `layout: page` in the front-matter. See readme for usage.
+    The code below dynamically generates a sidebar nav of pages with
+    `layout: page` in the front-matter. See readme for usage.
     {% endcomment %}
 
     {% assign pages_list = site.pages | sort:"url" %}
     {% for node in pages_list %}
-      {% if node.title != null %}
-        {% if node.layout == "page" %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
-        {% endif %}
-      {% endif %}
+    {% if node.title != null %}
+    {% if node.layout == "page" %}
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
+      href="{{ node.url | absolute_url }}">{{ node.title }}</a>
+    {% endif %}
+    {% endif %}
     {% endfor %}
 
-<span class="sidebar-nav-item"><a href="https://instagram.com/geraldleejordan" rel="nofollow" target="_blank" title="Find me on Instagram">Instagram</a></span>   
-<span class="sidebar-nav-item"><a href="https://soundcloud.com/geraldleejordan" rel="nofollow" target="_blank" title="Find me on Soundcloud">Soundcloud</a></span>
-<span class="sidebar-nav-item"><a href="https://twitter.com/geraldleejordan" rel="nofollow" target="_blank" title="Find me on Twitter">Twitter</a></span>
+    <span class="sidebar-nav-item"><a href="https://anchor.fm/geraldleejordan" rel="nofollow" target="_blank"
+        title="Mental Health Podcast">Podcasts</a></span>
+    <span class="sidebar-nav-item"><a href="https://instagram.com/geraldleejordan" rel="nofollow" target="_blank"
+        title="Find me on Instagram">Instagram</a></span>
+    <span class="sidebar-nav-item"><a href="https://twitter.com/geraldleejordan" rel="nofollow" target="_blank"
+        title="Find me on Twitter">Twitter</a></span>
+
+
+
+
   </nav>
 
   <div class="sidebar-item">
