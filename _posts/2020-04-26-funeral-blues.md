@@ -13,6 +13,6 @@ I recently found out that one of my dearest friends from university had died. I 
 
 <h2>Goodbye, Jim</h2>
 
-You were a good friend through university and the decades between. I hope you found what you sought.
+You were a good friend through university and in the decades since. I hope you found what you sought.
 
-<iframe src="https://anchor.fm/gerald-lee-jordan/embed/episodes/Funeral-Blues-ednoeu" height="102px" width="400px" frameborder="1" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/gerald-lee-jordan/embed/episodes/Funeral-Blues-ednoeu" height="102px" width="100%" frameborder="1" scrolling="no"></iframe>
