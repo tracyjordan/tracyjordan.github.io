@@ -13,8 +13,6 @@ title: About
 
 <h2>Contact</h2>
 
-<p>You can contact me using my name geraldleejordan and then append @gmail.com.</p>
-
 <p><img class="img-border" src="https://geraldleejordan.com/public/assets/images/gerald-lee-jordan-email.png" alt="Gerald Lee Jordan"></p>
 
 <h2>Keybase</h2>
