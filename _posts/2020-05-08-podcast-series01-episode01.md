@@ -7,9 +7,7 @@ author: Lee Jordan
 published: false
 ---
 
-<h2>Our Narratives - Series 01, Episode 01</h2>
-
-<p>Title: Overview of Narrative Therapy</p>
+<h2>Overview of Narrative Therapy</h2>
 
 <p>Summary here . . . </p>
 
@@ -44,6 +42,6 @@ published: false
 
 <p>text</p>
 
-<p>Our Narratives Series</p>
+<h2>Our Narratives Series</h2>
 
 <p><a href="https://anchor.fm/ournarratives" alt="Mental Health Podcasts" target="_blank" rel="nofollow">https://anchor.fm/ournarratives</a></p>
