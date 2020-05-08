@@ -21,6 +21,6 @@ title: About
 
 <p>If you are a client and would prefer a more immediate response, you can reach me on Keybase <a href="https://keybase.io/geraldleejordan/chat" rel="nofollow" target="_blank">here</a>.</p>
 
-<img class="img-border" src="https://geraldleejordan.com/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
+<img src="https://geraldleejordan.com/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
 
 Lee Jordan, MBA, MEd, MCouns
