@@ -11,7 +11,7 @@ published: true
 
 <p>I enjoy podcasts and started thinking of creating a therapy podcast back in 2013. I was working full-time, a full-time daddy (my favourite and most important role) and spreading myself across a number of other things. I then became single in 2014 and had other things upon which to focus. Creating a podcast became a lesser priority.</p>
 
-<h2>Counselling and Therapeutic Modalities<h2>
+<h2>Counselling and Therapeutic Modalities</h2>
 
 <p>Since I became a counsellor back in 2009, I have bounced a bit between modalities. As a student, the emphasis was upon Carl Rogers' Person Centered Therapy. This is a good starting point, but just that - a place to start. I then became interested in the various iterations of Cognitive Therapy (Cognitive Therapy, Cognitive-Behavioural Therapy, Rational-Emotive Behavioural Therapy), but they didn't seem enough. I then chanced upon Mindfulness-Based Cognitive Therapy and felt this covered a few more bases in the approach I wanted to use. Then there was Narrative Therapy and Compassion-Focused Therapy (among many others).</p>
 
