@@ -33,7 +33,10 @@ published: false
 
 <p>Out of that experience, I did a Master of Counselling course and I began telephone counselling training in Christchurch Aotearoa New Zealand. I threw myself into this new life, looking forward to when I could help others who were suffering.</p>
 
-<p>Over time I realised that one therapist can definitely help, but help only a few in traditional practice. Western therapy is modelled largely after 19th Century medical visits and this means personalised and expensive ongoing sessions where the therapist is considered the "expert" and the client is somehow defective or broken. Many avoid becoming therapists - I was one of these as an undergraduate - because they do not believe this pseudo-medical model to be an effective reflection of reality.</p>
+<p>Over time I realised that one therapist can definitely help, but help only a few in traditional practice. Western therapy is modelled largely after 19th Century medical visits and this means personalised and expensive ongoing sessions where the therapist is considered the "expert" and the client is somehow defective or broken. Many avoid becoming therapists - I was one of these as an undergraduate - because they do not believe this pseudo-medical model to be an effective reflection of reality, either of people's psychological states or of the dynamics of human relationships.</p>
+
+<p>What alternatives do we have to traditional therapy?</p>
+
 
 <h2>On Anchor.fm</h2>
 
