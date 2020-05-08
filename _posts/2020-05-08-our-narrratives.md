@@ -15,7 +15,7 @@ published: true
 
 <p>Since I became a counsellor back in 2009, I have bounced a bit between modalities. As a student, the emphasis was upon Carl Rogers' Person Centered Therapy. This is a good starting point, but just that - a place to start. I then became interested in the various iterations of Cognitive Therapy (Cognitive Therapy, Cognitive-Behavioural Therapy, Rational-Emotive Behavioural Therapy), but they didn't seem enough. I then chanced upon Mindfulness-Based Cognitive Therapy and felt this covered a few more bases in the approach I wanted to use. Then there was Narrative Therapy and Compassion-Focused Therapy (among many others).</p>
 
-<h2>Narrative Therapy<h2>
+<h2>Narrative Therapy</h2>
 
 <p>I began to consider that Narrative Therapy could be a framework from which I would work, supplemented by other modalities and tools - meditation, compassion meditation, cognitive therapeutic work, etc. I took a course last year in Adelaide, Australia, at the Centre where Narrative Therapy began. I continued to consider the possibilities after this course.</p>
 
