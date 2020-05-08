@@ -15,6 +15,8 @@ title: About
 
 <p>You can contact me using my name geraldleejordan and then append @gmail.com.</p>
 
+<p><img class="img-border" src="https://geraldleejordan.com/public/assets/images/gerald-lee-jordan-email.png" alt="Gerald Lee Jordan"></p>
+
 <h2>Keybase</h2>
 
 <p>If you are a client and would prefer a more immediate response, you can reach me on Keybase <a href="https://keybase.io/geraldleejordan/chat" rel="nofollow" target="_blank">here</a>.</p>
