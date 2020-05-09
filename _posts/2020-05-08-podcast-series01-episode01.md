@@ -35,7 +35,11 @@ published: false
 
 <p>Over time I realised that one therapist can definitely help, but help only a few in traditional practice. Western therapy is modelled largely after 19th Century medical visits and this means personalised and expensive ongoing sessions where the therapist is considered the "expert" and the client is somehow defective or broken. Many avoid becoming therapists - I was one of these as an undergraduate - because they do not believe this pseudo-medical model to be an effective reflection of reality, either of people's psychological states or of the dynamics of human relationships.</p>
 
-<p>What alternatives do we have to traditional therapy?</p>
+<p>What alternatives do we have to traditional therapy? There are no doubt evolving a number of alternatives to traditional therapy, including mobile app development augmented with Artificial Intelligence. While AI therapy may offer promise in the medium to long-term, more immediate options could include self-help guided by therapeutic models - the focus of this podcast - and group therapeutic models which are community-driven (think a secular version of Alcoholics Anonymous that offers assistance within therapeutic models. I am very interested in this sort of group work and am writing something on this at the moment. Perhaps I will publish something about this, soon.</p>
+
+<p>As just stated, focusing on self-help through emphasising therapeutic models, meditation and other helpful tools will be the focus of this podcast. This will be augmented by things that inspire me, such as poetry readings between podcasts. How might these resources be helpful to you? We will explore the theory of models - including Narrative Therapy - and we will follow this will more practical discussions of what you might do to apply these tools in your own life. You might find that you are following narratives created by others and want to work on recreating the narratives of your life. You may find that you are engaging in negative self-talk and try to practice compassion therapy to learn to be more gentle and kind with yourself. You may find yourself focusing on the future a great deal and what to try meditation to bring yourself to the present, easing your anxiety. The goal is to discuss things that you might be able to use to help yourself through difficult times and perhaps even helping you to develop more positive habits and outlooks for the future.</p>
+
+<p>Do these goals seem ambitious? Yes!</p>
 
 
 <h2>On Anchor.fm</h2>
