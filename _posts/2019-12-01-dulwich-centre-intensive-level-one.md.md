@@ -16,3 +16,5 @@ published: true
 <p>Once the course was finished, I got this certificate for the week. Looking forward to what's ahead!</p>
 
 <img src="https://geraldleejordan.com/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
+
+Lee Jordan, MBA, MEd, MCouns
