@@ -9,11 +9,11 @@ published: true
 
 <h2>Posit</h2>
 
-<p>When another labels you, be it a therapist, a racist or someone else, this attempt to label is a function of power, an attempt to control.</p>
+<p>When another labels you, be it a therapist or someone else, this attempt to label is a function of power, an attempt to control.</p>
 
 <h2>Control of Therapist</h2>
 
-<p>Traditional therapeutic paradigms attempt to "understand" by fitting the client into current models - social and therapeutic. These labels confine the client within "norms", emphasising the aspects of self which fit into the norms and minimising or ignoring those aspects of self which do not fit into the label.</p>
+<p>We may understand this statement within - say - a racist context. The person labelling you is trying to humiliate or otherwise control you, but what about within therapy? Traditional therapeutic paradigms attempt to "understand" by fitting the client into current models - social and therapeutic. These labels confine the client within "norms", emphasising the aspects of self which fit into the norms and minimising or ignoring those aspects of self which do not fit into the label.</p>
 
 <p>These labels allow the therapist to treat the client as a symptom, a condition or something else that can be "easily" understood, controlled or manipulated. These labels minimise the experiences and individuality of the person seeking help.</p>
 
