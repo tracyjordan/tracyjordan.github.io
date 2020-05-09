@@ -23,7 +23,7 @@ published: false
 
 <h2>Transcript</h2>
 
-<blockquote cite="https://anchor.fm/ournarratives">
+<blockquote cite="https://anchor.fm/narratives">
 
 <p>Hello and welcome to the first episode of "Our Narratives".</p>
 
@@ -52,4 +52,4 @@ published: false
 
 <h2>Our Narratives Series</h2>
 
-<p><a href="https://anchor.fm/ournarratives" alt="Mental Health Podcasts" target="_blank" rel="nofollow">https://anchor.fm/ournarratives</a></p>
+<p><a href="https://anchor.fm/narratives" alt="Mental Health Podcasts" target="_blank" rel="nofollow">https://anchor.fm/narratives</a></p>

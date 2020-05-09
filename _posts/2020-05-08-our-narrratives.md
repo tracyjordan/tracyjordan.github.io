@@ -25,6 +25,6 @@ published: true
 
 <p>The podcast is available at:</p>
 
-<p><a href="https://anchor.fm/ournarratives" alt="Mental Health Podcasts" target="_blank" rel="nofollow">https://anchor.fm/ournarratives</a></p>
+<p><a href="https://anchor.fm/narratives" alt="Mental Health Podcasts" target="_blank" rel="nofollow">https://anchor.fm/narratives</a></p>
 
 <p>Content will be added over the following weeks, but I anticipate Narrative Therapy theory and sessions, guided meditation (mindfulness, compassion and chanting) and poetry that I might want to read.</p>
