@@ -19,7 +19,7 @@ My email follows as an image (to keep email harvesting bots at bay). Please be a
 
 <h2>Date and Time</h2>
 
-I am in Wellington Aotearoa New Zealand and my current date and time are available <a href="https://www.timeanddate.com/worldclock/new-zealand/wellington" alt="Wellington Date and Time" rel="nofollow" target="_blank">here</a>.
+I am in Te Whanganui-a-Tara (Wellington) Aotearoa New Zealand and my current date and time are available <a href="https://www.timeanddate.com/worldclock/new-zealand/wellington" alt="Wellington Date and Time" rel="nofollow" target="_blank">here</a>.
 
 <h2>Keybase</h2>
 
