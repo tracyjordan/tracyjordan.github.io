@@ -9,7 +9,7 @@ published: true
 
 <h2>Street View</h2>
 
-<p>Before I went to the Dulwich Centre in November, for my week long intensive course in Narrative Therapy, I took a screenshot of Google Street View and sent by email to my son, to show him where I would be studying. It couldn’t be this idyllic, right?</p>
+<p>Before I went to the Dulwich Centre in November for my week long intensive course in Narrative Therapy, I took a screenshot of Google Street View and sent by email to my son, to show him where I would be studying. It couldn’t be this idyllic, right?</p>
 
 <img class="img-border" src="https://geraldleejordan.com/public/assets/images/dulwich-centre-adelaide-streetview.jpg" alt="Dulwich Centre Street View">
 
