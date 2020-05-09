@@ -13,7 +13,7 @@ title: About
 
 <h2>Contact</h2>
 
-My email follows as an image (to keep email harvesting bots at bay). Please be advised that I generally only respond to clients or prospective clients by email and my response times for prospective clients can be up to two NZ business days (calendar of NZ holidays <a href="https://www.timeanddate.com/holidays/new-zealand/" alt="New Zealand holidays calendar" rel="nofollow" target="_blank">here</a>).
+My email follows as an image (to keep email harvesting bots at bay). Please be advised that I generally only respond to clients or prospective clients by email and my response times for prospective clients can be up to two NZ business days (<a href="https://www.timeanddate.com/holidays/new-zealand/" alt="New Zealand holidays calendar" rel="nofollow" target="_blank">calendar of NZ holidays</a>).
 
 <p><img class="img-border" src="https://geraldleejordan.com/public/assets/images/gerald-lee-jordan-email.png" alt="Gerald Lee Jordan"></p>
 
