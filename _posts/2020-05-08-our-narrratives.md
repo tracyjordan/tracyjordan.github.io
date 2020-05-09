@@ -13,7 +13,7 @@ published: true
 
 <h2>Counselling and Therapeutic Modalities</h2>
 
-<p>Since I became a counsellor back in 2009, I have bounced a bit between modalities. As a student, the emphasis was upon Carl Rogers' Person Centered Therapy. This is a good starting point, but just that - a place to start. I then became interested in the various iterations of Cognitive Therapy (Cognitive Therapy, Cognitive-Behavioural Therapy, Rational-Emotive Behavioural Therapy), but they didn't seem enough. I then chanced upon Mindfulness-Based Cognitive Therapy and felt this covered a few more bases in the approach I wanted to use. Then there was Narrative Therapy and Compassion-Focused Therapy (among many others).</p>
+<p>Since I became a counsellor back in 2009, I have bounced a bit between modalities. As a student, the emphasis was upon Carl Rogers' <i>Person Centered Therapy</i>. This is a good starting point, but just that - a place to start. I then became interested in the various iterations of <i>Cognitive Therapy</i> (<i>Cognitive Therapy</i>, <i>Cognitive-Behavioural Therapy</i>, <i>Rational-Emotive Behavioural Therapy</i>), but they didn't seem enough. I then chanced upon <i>Mindfulness-Based Cognitive Therapy</i> and felt this covered a few more bases in the approach I wanted to use. I realised that it was important for me to include mindfulness in some form in my therapeutic practice. Then there was <i>Narrative Therapy</i> and <i>Compassion-Focused Therapy</i> (among many others). All of these things began to come together to strengthen my practice. I have also been exploring <i>Positive Psychology</i> in the last few years.</p>
 
 <h2>Narrative Therapy</h2>
 
