@@ -9,7 +9,7 @@ published: true
 
 <h2>Posit</h2>
 
-<p>When another labels you, be it a therapist or someone else, this attempt to label is a function of power, an attempt to control.</p>
+<p>When another labels you, be it a therapist or someone else, this attempt to label is a function of power, a form of control.</p>
 
 <h2>Control of Therapist</h2>
 
