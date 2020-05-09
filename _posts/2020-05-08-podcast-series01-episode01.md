@@ -41,6 +41,7 @@ published: false
 
 <p>Do these goals seem ambitious? Yes!</p>
 
+</blockquote>
 
 <h2>On Anchor.fm</h2>
 
