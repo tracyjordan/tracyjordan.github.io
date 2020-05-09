@@ -17,6 +17,10 @@ My email follows as an image (to keep email harvesting bots at bay). Please be a
 
 <p><img class="img-border" src="https://geraldleejordan.com/public/assets/images/gerald-lee-jordan-email.png" alt="Gerald Lee Jordan"></p>
 
+<h2>My Current Date and Time</h2>
+
+<iframe src="http://free.timeanddate.com/clock/i79yeye9/n264/tlnz/fn17/fc333/blcfff/brcfff/btc333/bbc333/pa5/tt0/tm1/ts1/ta1/tb2" frameborder="0" width="350" height="30"></iframe>
+
 <h2>Keybase</h2>
 
 <p>If you are a client and would prefer a more immediate response than by email, you can reach me on Keybase <a href="https://keybase.io/geraldleejordan/chat" rel="nofollow" target="_blank">here</a>.</p>
