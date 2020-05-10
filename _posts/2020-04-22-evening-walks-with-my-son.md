@@ -11,4 +11,4 @@ published: true
 
 <h2>Evening Walks During COVID-19</h2>
 
-Our evening walks have become even more special, as we take time to leave home and talk about our day, our dreams and the many thoughts that go through our minds during this lockdown. Tonight the sky was the most astonishing colours - the photo linked to on this post had no filters applied. We got to the summit of our walk and my son, Jack, looked back towards our home and the South Pacific.
+Our evening walks have become even more special, as we take time to leave home and talk about our day, our dreams and the many thoughts that go through our minds during this lock-down. Tonight the sky was the most astonishing colours - the photo linked to on this post had no filters applied. We got to the summit of our walk and my son, Jack, looked back towards our home and the South Pacific.
