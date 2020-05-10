@@ -43,7 +43,7 @@ published: false
 
 <p>While there will be many tools explored in this podcast - including meditation, compassion-focused meditation, cognitive therapy theory and exercises and insights from Positive Psychotherapy, among other things, we need a framework in which to work. This gives us a way to conceptualise the topics we are going to discuss. That framework will be Narrative Therapy.</p>
 
-<p>What is Narrative Therapy?<p>
+<p>What is Narrative Therapy? Narrative Therapy is an approach to problems which imagines our mental world as being made up of stories or "narratives". Some of the narratives we tell ourselves about our own existence, but many of these stories are told to us from birth. Stories of cultures, sub-cultures, families and individuals. We are surrounded by stories and when we get new input, we try to either fit this information into current stories, or create new stories. Most of us never challenge the main or "dominant" stories of our lives and these stories are not always helpful for our mental states or functioning. Narrative Therapy attempts to help consider these stories and when useful to help us rewrite our stories.<p>
 
 </blockquote>
 
