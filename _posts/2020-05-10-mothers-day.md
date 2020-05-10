@@ -11,7 +11,7 @@ published: true
 
 <blockquote class="twitter-tweet" data-width="100%"><p lang="en" dir="ltr">Happy Mother&#39;s Day to all the mums observing today, including my mum, <a href="https://twitter.com/coxcitykid?ref_src=twsrc%5Etfw">@coxcitykid</a>. Thank you for always loving and supporting me! <a href="https://t.co/Qxjxi8KQtY">pic.twitter.com/Qxjxi8KQtY</a></p>&mdash; Lee (@geraldleejordan) <a href="https://twitter.com/geraldleejordan/status/1259324437293236225?ref_src=twsrc%5Etfw">May 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-<p>My mother has always stood by me. She worries about me. She calls to check up on me. She is proud of what I have tried to do with my life. She is a grandmother that my son loves dearly.</p>
+<p>My mother has always stood by me. She worries about me. She calls to check up on me. She is proud of what I have tried to do with my life. She is a doting grandmother who my son loves dearly.</p>
 
 <p>Like all of us, she has her doubts. She imagines that she could have done better. When you look back on your life, you imagine how things could have been. While she has those doubts, I do not.</p>
 
