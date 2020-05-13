@@ -33,7 +33,7 @@ published: true
 
 <h2>Beginning Compassion Meditation</h2>
 
-<p>There are many ways to begin compassion meditation. You can buy one of Paul Gilbert's books which take you through some beginning steps. These are not heavy on the meditative side, but might increase your interest in the topic and overall happiness. Another approach is to try compassion meditation for yourself. I have included an very brief example audio link below.</p>
+<p>There are many ways to begin compassion meditation. You can buy one of Paul Gilbert's books which will take you through some beginning steps. These are not heavy on the meditative side, but might increase your interest in the topic and overall happiness. Another approach is to try compassion meditation for yourself. I have included a very brief example audio link below.</p>
 
 <iframe width="100%" height="600" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/813017065&color=%23333333&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
