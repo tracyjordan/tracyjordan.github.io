@@ -43,7 +43,7 @@ published: true
 
 <p>Efforts to practice compassion throughout your life will help and will also come from your meditation on compassion. These will build upon each other. One thing not to forget is that compassion is not just for others, it is also for yourself! I spend some minutes before drifting off to sleep feeling compassion for others and myself. It is an incredibly powerful time where I am receptive to these thoughts. It also brings more restful sleep. I hope you are able to find compassion growing in yourself. It is one of our greatest gifts and powers.</p>
 
-<p>May you find compassion and peace.</p>
+<p>May you find peace.</p>
 
 <img src="https://geraldleejordan.com/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
 
