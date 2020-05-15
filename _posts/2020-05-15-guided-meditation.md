@@ -25,7 +25,7 @@ published: true
 
 <h2>Prepare to Grow Beyond Guided Meditation</h2>
 
-<p>There is nothing wrong with learning from or with another, but in time you need to grow. Meditation is something we have to do for ourselves. That is why it is called a "practice". By all means, try guided meditation practice, but know that this is only a very humble beginning for something that you can spend a lifetime exploring - your own mind.</p>
+<p>There is nothing wrong with learning from or with another, but in time you need to grow. Meditation is something we have to do for ourselves. That is why it is called a "practice". By all means try guided meditation practice, but know that this is only a very humble beginning for something that you can spend a lifetime exploring - your own mind.</p>
 
 <p>May you find peace.</p>
 
