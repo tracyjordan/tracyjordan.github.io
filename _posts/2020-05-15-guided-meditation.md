@@ -9,7 +9,7 @@ published: true
 
 <h2>Discussing Meditation</h2>
 
-<p>I was discussing meditation by phone with a friend in Aotearoa New Zealand. He was talking about one of the most popular meditation apps and I listened attentively. After he had finished, I said something to the effect of, "Yes, guided meditation apps have widened experience of meditation generally in the West, but they are not the "goal" of meditation. This lead us into a discussion that lasted some time and he suggested that I share this online, so here I am.</p>
+<p>I was discussing meditation by phone with a friend in Aotearoa New Zealand. He was talking about one of the most popular meditation apps and I listened attentively. After he had finished, I said something to the effect of, "Yes, guided meditation apps have widened experience of meditation generally in the West, but they are not the 'goal' of meditation." This lead us into a discussion that lasted some time and he suggested that I share this online, so here I am.</p>
 
 <h2>Guided Meditation Historically</h2>
 
