@@ -11,7 +11,7 @@ published: true
 
 <p>I have been involved in data science for a few years (when you include website analytics, since 2004), but I haven't focused on the R Programming Language until recently. While I have preferred Python for data science, I decided to take this online course offered by Harvard University (HarvardX).</p>
 
-<h2>Data Science Certification</h2>
+<h2>Data Science Certificate</h2>
 
 <p><img class="img-border" src="https://geraldleejordan.com/public/assets/images/Gerald-Lee-Jordan-HarvardX-PH125.png" alt="HarvardX Data Science"></p>
 
