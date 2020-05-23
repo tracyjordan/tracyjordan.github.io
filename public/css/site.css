@@ -2,7 +2,7 @@
  *  Overwrites for theme
  */
 
-html {
+ html {
   font-family: Verdana, Geneva, sans-serif;
 }
 
@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p a {
-  word-break: break-all;
+  word-break: break-word;
 }
 
 /*
@@ -82,7 +82,7 @@ p a {
   margin-top: 20px;
   margin-bottom: 20px;
   padding: 20px;
-  border-left: 20px solid #333333;
+  border-left: 20px solid #669966;
   color: #333333;
 }
 
@@ -115,3 +115,22 @@ ul li a {
  text-transform: capitalize; 
 }
 
+.sidebar-item {
+  color: #FFCC00;
+}
+
+.highlight-text {
+  background-color: #fff4cc;
+}
+
+.masthead-title small {
+  color: #669966;
+}
+
+.coinmarketcap-currency-widget {
+  padding: 10px !important; 
+}
+
+.coinmarketcap-currency-widget div {
+  padding: 10px !important; 
+}
