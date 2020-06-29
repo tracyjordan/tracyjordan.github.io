@@ -15,7 +15,7 @@ published: true
 
 <h2>A Friend Suffering</h2>
 
-<p>Today, I realised that a friend from back in high school suffered from mental health within the last two years. I had images of him as that laughing, sensitive kid and today I saw him struggling with a great deal online. He and I are not social media contacts, so I didn't follow what was happening with him at the time, but today I saw posts over months which went from the (seemingly) happy family, to depression, divorce, jail and homelessness within months. There are no further posts visible since late 2018 and I can only guess what might have happened since.</p>
+<p>Today, I realised that a friend from back in high school suffered from mental health issues within the last two years. I had images of him as that laughing, sensitive kid and today I saw him struggling with a great deal online. He and I are not social media contacts, so I didn't follow what was happening with him at the time, but today I saw posts over months which went from the (seemingly) happy family, to depression, divorce, jail and homelessness within months. There are no further posts visible since late 2018 and I can only guess what might have happened since.</p>
 
 <h2>Thinking About the Future</h2>
 
