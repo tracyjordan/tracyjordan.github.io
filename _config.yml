@@ -1,8 +1,8 @@
 # Setup
-title:               Gerald Lee Jordan
-tagline:             'MBA, MEd, MCouns'
-description:         'Narrative Therapy and Mindfulness-Based Cognitive Therapy Counselling'
-url:                 https://geraldleejordan.com
+title:               Tracy Jordan
+tagline:             'tagline goes here'
+description:         'Tracy's journey to Aotearoa'
+url:                 https://tracyjordan.nz
 baseurl:             /
 paginate:            5
 permalink:           pretty
@@ -12,9 +12,9 @@ permalink: /:title/
 
 # About/contact
 author:
-  name:              Lee Jordan
+  name:              Tracy Jordan
   url:               https://twitter.com/geraldleejordan
-  email:             geraldleejordan@gmail.com
+  email:             tracyjschmidt@gmail.com
 
 # Gems
 plugins:
