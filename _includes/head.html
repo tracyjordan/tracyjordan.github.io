@@ -6,28 +6,31 @@
 
   <title>
     {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
+    {{ site.title }} &middot; {{ site.tagline }}
     {% else %}
-      {{ page.title }} &middot; {{ site.title }}
+    {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
 
-  <link rel="stylesheet" href="https://geraldleejordan.com/public/css/poole.css">
-  <link rel="stylesheet" href="https://geraldleejordan.com/public/css/syntax.css">
-  <link rel="stylesheet" href="https://geraldleejordan.com/public/css/lanyon.css">
-  <link rel="stylesheet" href="https://geraldleejordan.com/public/css/site.css">
-  <link href="https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap" rel="stylesheet"> 
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}public/apple-touch-icon-precomposed.png">
+  <link rel="stylesheet" href="https://tracyjordan.nz/public/css/poole.css">
+  <link rel="stylesheet" href="https://tracyjordan.nz/public/css/syntax.css">
+  <link rel="stylesheet" href="https://tracyjordan.nz/public/css/lanyon.css">
+  <link rel="stylesheet" href="https://tracyjordan.nz/public/css/site.css">
+  <link href="https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap" rel="stylesheet">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144"
+    href="{{ site.baseurl }}public/apple-touch-icon-precomposed.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="https://geraldleejordan.com/atom.xml">
-  <link rel="shortcut icon" href="https://geraldleejordan.com/public/favicon.ico">
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="https://tracyjordan.nz/atom.xml">
+  <link rel="shortcut icon" href="https://tracyjordan.nz/public/favicon.ico">
 
   {% if site.google_analytics_id %}
   <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
     ga('create', '{{ site.google_analytics_id }}', 'auto');
     ga('send', 'pageview');
   </script>
