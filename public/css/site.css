@@ -57,18 +57,18 @@ p a {
 .theme-base-JJ .sidebar,
 .theme-base-JJ .sidebar-toggle:active,
 .theme-base-JJ #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #062F4F;
+  background-color: #49274A;
 }
 .theme-base-JJ .container a,
 .theme-base-JJ .sidebar-toggle,
 .theme-base-JJ .related-posts li a:hover {
-  color: #062F4F;
+  color: #49274A;
 }
 
 .message {
   background-color: unset;
-  border: 1px solid #062F4F;
-  color: #062F4F;
+  border: 1px solid #49274A;
+  color: #49274A;
   background-color: #f2f2f2;
 }
 
@@ -83,19 +83,19 @@ p a {
   margin-bottom: 20px;
   padding: 20px;
   border-left: 20px solid #669966;
-  color: #062F4F;
+  color: #49274A;
 }
 
 /* Gerald Lee Jordan Theme */
 .theme-base-GJ .sidebar,
 .theme-base-GJ .sidebar-toggle:active,
 .theme-base-GJ #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #062F4F;
+  background-color: #49274A;
 }
 .theme-base-GJ .container a,
 .theme-base-GJ .sidebar-toggle,
 .theme-base-GJ .related-posts li a:hover {
-  color: #062F4F;
+  color: #49274A;
 /*  color: #3c4c54; */
 }
 
