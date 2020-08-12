@@ -57,18 +57,18 @@ p a {
 .theme-base-JJ .sidebar,
 .theme-base-JJ .sidebar-toggle:active,
 .theme-base-JJ #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #333333;
+  background-color: #062F4F;
 }
 .theme-base-JJ .container a,
 .theme-base-JJ .sidebar-toggle,
 .theme-base-JJ .related-posts li a:hover {
-  color: #333333;
+  color: #062F4F;
 }
 
 .message {
   background-color: unset;
-  border: 1px solid #333333;
-  color: #333333;
+  border: 1px solid #062F4F;
+  color: #062F4F;
   background-color: #f2f2f2;
 }
 
@@ -83,19 +83,19 @@ p a {
   margin-bottom: 20px;
   padding: 20px;
   border-left: 20px solid #669966;
-  color: #333333;
+  color: #062F4F;
 }
 
 /* Gerald Lee Jordan Theme */
 .theme-base-GJ .sidebar,
 .theme-base-GJ .sidebar-toggle:active,
 .theme-base-GJ #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #333333;
+  background-color: #062F4F;
 }
 .theme-base-GJ .container a,
 .theme-base-GJ .sidebar-toggle,
 .theme-base-GJ .related-posts li a:hover {
-  color: #333333;
+  color: #062F4F;
 /*  color: #3c4c54; */
 }
 
@@ -125,12 +125,4 @@ ul li a {
 
 .masthead-title small {
   color: #669966;
-}
-
-.coinmarketcap-currency-widget {
-  padding: 10px !important; 
-}
-
-.coinmarketcap-currency-widget div {
-  padding: 10px !important; 
 }
