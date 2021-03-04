@@ -1,6 +1,6 @@
 # Setup
 title:               Tracy Jordan
-tagline:             'tagline goes here'
+tagline:             'listening closely'
 description:         'Tracy in Aotearoa'
 url:                 https://tracyjordan.nz
 baseurl:             /
@@ -14,7 +14,7 @@ permalink: /:title/
 author:
   name:              Tracy Jordan
   url:               https://twitter.com/geraldleejordan
-  email:             tracyjschmidt@gmail.com
+  email:             tracydeanjordan@gmail.com
 
 # Gems
 plugins:
